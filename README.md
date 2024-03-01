@@ -1,6 +1,6 @@
-# Bharat Intern - User Registration System
+# Task of Bharat intern 
 
-Welcome to Bharat Intern's User Registration System! This project is designed to create a simple user registration form using HTML, CSS, Node.js, and MongoDB.
+This is the one of task's  Bharat Intern's User Registration System! This project is designed to create a simple user registration form using HTML, CSS, Node.js, and MongoDB.
 
 ## Features
 - User-friendly registration form.
